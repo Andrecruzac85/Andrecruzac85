@@ -14,12 +14,14 @@
 
 📫 Vamos nos conectar?  
 Você pode me encontrar em:
-- [LinkedIn](https://www.linkedin.com/in/seu-usuario) *(troque pelo seu link)*
-- [Email](mailto:seuemail@exemplo.com)
+- [LinkedIn](https://linkedin.com/in/andrecruzac85)
+- [GitHub](https://github.com/andrecruzac85)
+- 📧 andrecruzac85@hotmail.com
 
 ---
 
 🧠 *"A melhor forma de prever o futuro é criá-lo."* – Peter Drucker
+
 
 [![AndreCruz GitHub stats](https://github-readme-stats.vercel.app/api?username=Andrecruzac85)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Andrecruzac85&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
