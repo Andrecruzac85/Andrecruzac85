@@ -2,7 +2,7 @@
 
 🎓 Sou formado em Engenharia de Software e, ao longo de mais de 10 anos, atuei como Supervisor Técnico, liderando equipes, resolvendo desafios complexos e garantindo a entrega de soluções tecnológicas eficientes.
 
-🚀 Atualmente, estou em transição de carreira e me dedicando intensamente ao desenvolvimento full stack. Estou cursando o programa da [DevClub](https://www.devclub.com.br/), onde venho aprimorando minhas habilidades em programação e construindo uma base sólida em tecnologias modernas.
+🚀 Atualmente, estou em transição de carreira e me dedicando intensamente ao desenvolvimento full stack. Estou cursando o programa da [DevClub](https://www.rodolfomori.com.br/), onde venho aprimorando minhas habilidades em programação e construindo uma base sólida em tecnologias modernas.
 
 💻 Estou focado em aprender e aplicar conceitos de:
 
